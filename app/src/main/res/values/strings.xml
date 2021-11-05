@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Wisata Jawa Tengah</string>
+    <string name="name">Name</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="image_splashscreen">image_splashscreen</string>
+
+    <array name="image">
+        <item>@drawable/image_destination1</item>
+        <item>@drawable/image_destination2</item>
+        <item>@drawable/image_destination3</item>
+        <item>@drawable/image_destination4</item>
+        <item>@drawable/image_destination5</item>
+        <item>@drawable/image_destination6</item>
+        <item>@drawable/image_destination7</item>
+        <item>@drawable/image_destination8</item>
+        <item>@drawable/image_destination9</item>
+        <item>@drawable/image_destination10</item>
+    </array>
+
+    <string-array name="nama">
+        <item>Lawang Sewu</item>
+        <item>Guci</item>
+        <item>Pantai Menganti</item>
+        <item>Sam Poo Kong</item>
+        <item>Pantai Teluk Penyu</item>
+        <item>Dieng</item>
+        <item>Small World</item>
+        <item>Baturaden</item>
+        <item>Pantai Alam Indah</item>
+        <item>Karimun Jawa</item>
+    </string-array>
+
+    <string-array name="lokasi">
+        <item>Semarang</item>
+        <item>Tegal</item>
+        <item>Kebumen</item>
+        <item>Semarang</item>
+        <item>Cilacap</item>
+        <item>Banjar Negara</item>
+        <item>Purwokerto</item>
+        <item>Puwokerto</item>
+        <item>Tegal</item>
+        <item>Jepara</item>
+    </string-array>
+
+</resources>
